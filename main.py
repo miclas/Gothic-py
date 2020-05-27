@@ -85,7 +85,7 @@ while play:
                 players[target].heal(dmg)
                 player.reduce_mp(spell.cost)
                 print(bcolors.MBLUE + '\nYou heal {} for: {} using spell {}.'
-                      .format(players[target].name, dmg, spell.name) + bcolors.ENDC)
+                      .format(players[target].name.replace(" ", ""), dmg, spell.name) + bcolors.ENDC)
 
         elif choice == 2:                                                   # Use item
             backpack = player.choose_item()

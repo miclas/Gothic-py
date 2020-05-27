@@ -1,0 +1,50 @@
+'''
+This class allow us to use different colors
+'''
+
+
+class bcolors:
+    ENDC = '\33[0m'
+    MBOLD = '\33[1m'
+    MITALIC = '\33[3m'
+    MURL = '\33[4m'
+    MBLINK = '\33[5m'
+    MBLINK2 = '\33[6m'
+    MSELECTED = '\33[7m'
+
+    MBLACK = '\33[30m'
+    MRED = '\33[31m'
+    MGREEN = '\33[32m'
+    MYELLOW = '\33[33m'
+    MBLUE = '\33[34m'
+    MVIOLET = '\33[35m'
+    MBEIGE = '\33[36m'
+    MWHITE = '\33[37m'
+
+    MBLACKBG = '\33[40m'
+    MREDBG = '\33[41m'
+    MGREENBG = '\33[42m'
+    MYELLOWBG = '\33[43m'
+    MBLUEBG = '\33[44m'
+    MVIOLETBG = '\33[45m'
+    MBEIGEBG = '\33[46m'
+    MWHITEBG = '\33[47m'
+
+    MGREY = '\33[90m'
+    MRED2 = '\33[91m'
+    MGREEN2 = '\33[92m'
+    MYELLOW2 = '\33[93m'
+    MBLUE2 = '\33[94m'
+    MVIOLET2 = '\33[95m'
+    MBEIGE2 = '\33[96m'
+    MWHITE2 = '\33[97m'
+
+    MGREYBG = '\33[100m'
+    MREDBG2 = '\33[101m'
+    MGREENBG2 = '\33[102m'
+    MYELLOWBG2 = '\33[103m'
+    MBLUEBG2 = '\33[104m'
+    MVIOLETBG2 = '\33[105m'
+    MBEIGEBG2 = '\33[106m'
+    MWHITEBG2 = '\33[107m'
+

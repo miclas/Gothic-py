@@ -2,4 +2,4 @@
 
 Project created during learning. It's python implementation of a text based/terminal battle game.
 
-Improve readme !!
+![alt text](https://github.com/miclas/Gothic-py/blob/master/Screenshot.PNG)
